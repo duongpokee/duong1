@@ -1,0 +1,2 @@
+Install requirements: npm install net fs url request crypto path http tls colors
+Run script: node 1.js GET https://target.com 120 64
